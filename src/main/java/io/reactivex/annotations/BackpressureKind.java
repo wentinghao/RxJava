@@ -15,7 +15,7 @@ package io.reactivex.annotations;
 
 /**
  * Enumeration for various kinds of backpressure support.
- * @since 2.0
+ * @since 2.0  add test
  */
 public enum BackpressureKind {
     /**
